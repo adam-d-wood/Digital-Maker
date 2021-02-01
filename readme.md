@@ -1,0 +1,1 @@
+A basic ball animation program using pygame designed as an introduction to Python programming for Scouts
