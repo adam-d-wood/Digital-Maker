@@ -1,2 +1,2 @@
 A basic ball animation program using pygame designed as an introduction to Python programming for Scouts
-This is designed to cover the 1st and 2nd criteria of the 2nd level of the Digital Maker staged activity badge.
+This is designed to cover the 1st and 2nd criteria of the 2nd level of the Digital Maker staged activity badge
