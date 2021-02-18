@@ -15,7 +15,7 @@ clock = pygame.time.Clock()
 g = 1
 r = 30
 ground = window_size[1]*0.9
-elasticity = 0.1
+elasticity = 1
 
 # initialise variables
 x = window_size[0] // 2
