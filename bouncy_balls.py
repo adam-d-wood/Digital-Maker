@@ -70,7 +70,7 @@ clock = pygame.time.Clock()
 
 running = True
 
-g = 1
+g = input("enter g: ")
 ground = window_size[1] * 0.9
 
 # initialise balls
